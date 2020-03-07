@@ -7,6 +7,7 @@ export default axios.create({
     params:{
         part:'snippet',
         type:'video',
-        key:KEY
+        key:KEY,
+        allowfullscreen:"true"
     }
 })
