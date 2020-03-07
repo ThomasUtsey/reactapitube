@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "708dd813b985d7bcbda8081c6c8d72ce",
+    "revision": "d5bbee404ad6cef7c7b3b1d047435795",
     "url": "/reactapitube/index.html"
   },
   {
-    "revision": "84891161a380f4a85e0d",
+    "revision": "c2f4f1bc7f666627867a",
     "url": "/reactapitube/static/css/main.3fc4b0ce.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactapitube/static/js/2.95fc45c4.chunk.js.LICENSE"
   },
   {
-    "revision": "84891161a380f4a85e0d",
-    "url": "/reactapitube/static/js/main.1cf3dad0.chunk.js"
+    "revision": "c2f4f1bc7f666627867a",
+    "url": "/reactapitube/static/js/main.912413ed.chunk.js"
   },
   {
     "revision": "d1c683b47e98141de341",
