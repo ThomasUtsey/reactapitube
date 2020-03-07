@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/reactapitube/static/css/main.3fc4b0ce.chunk.css",
-    "main.js": "/reactapitube/static/js/main.5f5a7d02.chunk.js",
-    "main.js.map": "/reactapitube/static/js/main.5f5a7d02.chunk.js.map",
+    "main.js": "/reactapitube/static/js/main.1cf3dad0.chunk.js",
+    "main.js.map": "/reactapitube/static/js/main.1cf3dad0.chunk.js.map",
     "runtime-main.js": "/reactapitube/static/js/runtime-main.17d8b0c4.js",
     "runtime-main.js.map": "/reactapitube/static/js/runtime-main.17d8b0c4.js.map",
     "static/js/2.95fc45c4.chunk.js": "/reactapitube/static/js/2.95fc45c4.chunk.js",
     "static/js/2.95fc45c4.chunk.js.map": "/reactapitube/static/js/2.95fc45c4.chunk.js.map",
     "index.html": "/reactapitube/index.html",
-    "precache-manifest.b8ed7b35d6b84b57677415d973cfa4b1.js": "/reactapitube/precache-manifest.b8ed7b35d6b84b57677415d973cfa4b1.js",
+    "precache-manifest.966d9a0ea6352d3db2bd27675752b466.js": "/reactapitube/precache-manifest.966d9a0ea6352d3db2bd27675752b466.js",
     "service-worker.js": "/reactapitube/service-worker.js",
     "static/css/main.3fc4b0ce.chunk.css.map": "/reactapitube/static/css/main.3fc4b0ce.chunk.css.map",
     "static/js/2.95fc45c4.chunk.js.LICENSE": "/reactapitube/static/js/2.95fc45c4.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.17d8b0c4.js",
     "static/js/2.95fc45c4.chunk.js",
     "static/css/main.3fc4b0ce.chunk.css",
-    "static/js/main.5f5a7d02.chunk.js"
+    "static/js/main.1cf3dad0.chunk.js"
   ]
 }
