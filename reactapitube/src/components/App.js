@@ -34,7 +34,7 @@ render(){
 <SearchBar
 onSubmit = {this.onSearchSubmit}
 />
-<div className='ui grid'>
+<div className='ui stackable grid'>
 
 <div className='ui row'>
 
